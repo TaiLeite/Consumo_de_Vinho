@@ -1,5 +1,5 @@
 # Consumo_de_Vinho
-Análise de Dados: Fatores de Influência no Mercado de Vinhos 
+
 # Análise de Dados: Fatores de Influência no Mercado de Vinhos 🍷
 
 Este projeto realiza uma análise exploratória de dados (EDA) sobre o dataset *Wine Reviews* (Kaggle), buscando entender como variáveis como origem, pontuação e prestígio influenciam o preço e a decisão de compra dos consumidores.
