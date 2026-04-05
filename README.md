@@ -34,8 +34,10 @@ Para garantir a integridade da análise, foram realizados os seguintes passos:
 3. Criação de filtros de volume para evitar o viés de amostras pequenas (ex: Inglaterra).
 
 ## 📈 Visualizações
+O gráfico acima demonstra como a Áustria e a Alemanha lideram em pontuação média quando filtramos países com volume relevante, superando potências tradicionais no rácio qualidade/preço.
 
-![Ranking de Países](link_da_sua_imagem_aqui)
+![Ranking de Países](<img width="1980" height="1499" alt="meu_grafico_top10" src="https://github.com/user-attachments/assets/1992ad69-f465-4bfe-b441-0dd5e8ceba07" />)
+
 
 ---
 **Autora:** Taiane Leite  
